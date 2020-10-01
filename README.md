@@ -20,6 +20,7 @@ We try not to duplicate logos, and would prefer more encompassing logos over gra
 
 To build this website you need:
 
+* Willingness to learn 
 * [Hugo](https://gohugo.io/getting-started/installing/)
 * [Nodejs](https://nodejs.org/en/download/)
 * [Yarn](https://yarnpkg.com/lang/en/docs/install/#windows-stable)
